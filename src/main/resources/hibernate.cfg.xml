@@ -15,5 +15,6 @@
         <property name="hibernate.hbm2ddl.auto">create-drop</property>
 
         <mapping class="hib.example.User"/>
+        <mapping class="hib.example.Product"/>
     </session-factory>
 </hibernate-configuration>
